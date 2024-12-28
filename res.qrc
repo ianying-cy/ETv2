@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/a_login">
+        <file>res_file/icons8-输入-96.png</file>
+        <file>res_file/icons8-输入-48.png</file>
+        <file>res_file/icons8-登录按钮-100.png</file>
+        <file>res_file/icons8-登录按钮-50.png</file>
+        <file>res_file/login_pic.jpg</file>
+        <file>res_file/loginPic.jpg</file>
+        <file>res_file/tuichu-2.png</file>
+    </qresource>
+</RCC>
